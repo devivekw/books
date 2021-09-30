@@ -1,3 +1,4 @@
 # TextBooks 
 
-1. Solutions Manual - Operating Systems Wiley (2018 10th Edition) 
+- Solutions Manual - Operating System Concepts Wiley (2018 10th Edition) 
+- Instructors Manual - Operating System Concepts Wiley (7th Edition)
